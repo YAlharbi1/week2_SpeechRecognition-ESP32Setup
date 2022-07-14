@@ -1,6 +1,6 @@
 # week2_SpeechRecognition-ESP32Setup
 
-Speech Recognition in files uploaded in Repositry .
+Speech Recognition in files uploaded in Repositry Work Only in Chrome Browser .
 
 wisdom ESP32 Setup Algorithim in Arduino :
 
